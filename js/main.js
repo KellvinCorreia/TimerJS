@@ -6,9 +6,9 @@ let pause = document.querySelector('.pause')
 let reset = document.querySelector('.reset')
 let watch = document.querySelector('.watch')
 
-let hour = 23
-let minutes = 59
-let seconds = 50
+let hour = 0
+let minutes = 0
+let seconds = 0
 let timer
 let blink
 let notBlink
